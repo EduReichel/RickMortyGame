@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Rick and Morty Theme Song [HD].wav-26faa81c0eb97a2b391b7f226435f8cf.sample"
+
+[deps]
+
+source_file="res://Rick and Morty Theme Song [HD].wav"
+dest_files=[ "res://.import/Rick and Morty Theme Song [HD].wav-26faa81c0eb97a2b391b7f226435f8cf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dance Bitch (Rick and Morty song)(1).wav-d15c6176fbc1fc168ea4feec2b3d9a5a.sample"
+
+[deps]
+
+source_file="res://Dance Bitch (Rick and Morty song)(1).wav"
+dest_files=[ "res://.import/Dance Bitch (Rick and Morty song)(1).wav-d15c6176fbc1fc168ea4feec2b3d9a5a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
